@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, I'm Douglas Biagi! 👋
 
-<!--
-**DouglasLupim/DouglasLupim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 React Native Junior Developer at [@SisTecnologia](https://www.sisteconologia.com.br/) <br>
+🇧🇷 Living in Lençóis Paulista, Brazil <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing Watermelon Moon 🍉 to help and spread content about Swift to the WORLD!
+
+You can watch me coding LIVE on [Twitch](https://www.twitch.tv/lupim) <br>
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://lupim.dev) <br>
+🐦 [Twitter](https://twitter.com/douglasbiagi) <br>
+📸 [Instagram](https://instagram.com/douglasbiagi) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/douglasbiagigrana/) <br>
