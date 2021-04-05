@@ -1,7 +1,7 @@
 ### Hey, I'm Douglas Biagi! 👋
 
-💻 React Native Junior Developer at [@SisTecnologia](https://sistecnologia.com.br/) <br>
-🎨 UX/UI Designer at [@SisTecnologia](https://sistecnologia.com.br/) <br>
+💻 React Native Junior Developer at [@NULL](https:///) <br>
+🎨 UX/UI Designer at [@NULL](https:///) <br>
 🇧🇷 Living in Lençóis Paulista, Brazil <br>
 
 ### What I'm working on 👨‍💻
